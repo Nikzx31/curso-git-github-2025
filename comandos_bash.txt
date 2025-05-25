@@ -1,0 +1,3 @@
+ls -> lista arquivos
+cd -> change directory
+pwd -> mostra diretorio do trabalho
