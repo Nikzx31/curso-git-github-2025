@@ -1,2 +1,4 @@
-\#CURSO DE GIT e GITHUB
+CURSO DE GIT e GITHUB
+
+ 	Aprendendo via canal do youtube
 
